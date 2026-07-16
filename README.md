@@ -1,3 +1,6 @@
+https://yumi-233.itch.io/voxel-sprite-cruncher-3d-to-pixel-spritesheet
+
+
 中文：
 
 3D 转 2D 角色管线
