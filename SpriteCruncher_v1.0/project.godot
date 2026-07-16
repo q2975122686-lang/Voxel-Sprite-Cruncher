@@ -1,5 +1,0 @@
-[application]
-config/name="Voxel Sprite Cruncher"
-
-[rendering]
-renderer/rendering_method="gl_compatibility"
