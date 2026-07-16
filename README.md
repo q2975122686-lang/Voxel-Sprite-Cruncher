@@ -75,6 +75,13 @@ Godot 中怎么用
 Color 泛白：检查 Blender 原纹理、材质 Base Color 和颜色管理，不要把灯光效果画进基础色。
 Normal 看起来是彩色：这是正常的，RGB 分别编码表面三个方向。
 构建后网页没变化：切换动画标签，或刷新页面后重新加载产物。
+
+
+
+
+
+
+
 English： Voxel Sprite Cruncher A local tool: Blender reads your character, skeleton, and animations, and the tool outputs 2D Color SpriteSheets and Normal SpriteSheets. Color stores only the character's flat color; Normal maps are handed to Godot for runtime lighting.
 
 Quick Start Double-click launch.bat. Your browser opens http://127.0.0.1:8877. Enter the full path to your GLB / FBX file under "Source GLB / FBX". Click Scan Actions. Check the animations you want to export, and set an FPS for each. To recolor, check a material slot and set its shadow, mid, and highlight colors. The tool remaps based on the original texture's brightness. Leave unchecked to keep the Blender material as-is. Click Build Selected. To check framing or materials without generating a full SpriteSheet, click Preview Single Frame. It renders only the first frame of the current action (Color, Normal, and Material ID) without overwriting previously built sprites. Once satisfied, click Build Selected.
