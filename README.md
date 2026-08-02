@@ -100,6 +100,6 @@ MIT
 
 If this tool helps you, consider supporting:
 
-| 支付宝 | itch.io |
-|--------|---------|
-| ![支付宝](alipay.png) | [Buy me a coffee](https://yumi-233.itch.io/voxel-sprite-cruncher-3d-to-pixel-spritesheet) |
+| itch.io |
+|---------|
+| [Buy me a coffee](https://yumi-233.itch.io/voxel-sprite-cruncher-3d-to-pixel-spritesheet) |
